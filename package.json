@@ -1,0 +1,15 @@
+{
+  "name": "small-projects",
+  "version": "1.0.0",
+  "description": "Javascript small projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

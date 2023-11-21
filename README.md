@@ -1,2 +1,3 @@
-# small-projects
-Javascript small projects
+# js-promise
+
+Web dev simplified crush course implementing Promise
